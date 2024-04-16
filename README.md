@@ -9,12 +9,12 @@
 <h5>-Introduction</h5>
 <h5>-Dynamic Array</h5>
 <h5>-Stack</h5>
-<h5>-Static Array Stack</h5>
-<h5>-Dynamic Array Stack</h5>
+<h5>-Stack Based on Static Array</h5>
+<h5>-Stack Based on  Dynamic Array</h5>
 <h5>-Queue</h5>
-<h5>-Static Array Queue</h5>
-<h5>-Dynamic Array Queue</h5>
-<h5>-Dynamic Stack Queue</h5>
+<h5>-Queue Based on Static Array</h5>
+<h5>-Queue Based on Dynamic Array</h5>
+<h5>-Queue Based on Dynamic Stack</h5>
 <h5>-Linked List</h5>
 <h5>-Single Linked List</h5>
 <h5>-Double Linked List</h5>
@@ -35,11 +35,11 @@
 <h4>The stack data structure follows the Last-In-First-Out (LIFO) principle. The stack implementations included are based on both static arrays and dynamic arrays, showcasing different approaches to managing stack operations.</h4>
 <p align="center"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png" alt="project-image"></p>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
-<h2>Static Array Stack</h2>
+<h2>Stack Based on Static Array</h2>
 <h4>The static array stack is implemented using a fixed-size array. It is suitable for scenarios where the maximum capacity is known in advance.</h4>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
-<h2>Dynamic Array Stack</h2>
+<h2>Stack Based on Dynamic Array</h2>
 <h4>The dynamic array stack uses a resizable array to handle stack operations. It dynamically adjusts its size to accommodate new elements, offering flexibility and efficient memory management.</h4>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
@@ -47,16 +47,16 @@
 <h4>The queue data structure follows the First-In-First-Out (FIFO) principle. Similar to the stack, queue implementations are provided based on static arrays, dynamic arrays, and dynamic stacks, highlighting various methods of implementing queues.</h4>
 <p align="center"><img src="https://www.masaischool.com/blog/content/images/wordpress/2022/04/First-In-First-Out-Queue-1024x683.png" alt="project-image"></p>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
-<h2>Static Array Queue</h2>
+<h2>Queue Based on Static Array</h2>
 <h4>The static array queue uses a fixed-size array to manage queue operations. It is suitable for scenarios with a predefined maximum capacity.</h4>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
-<h2>Dynamic Array Queue</h2>
+<h2>Queue Based on Dynamic Array</h2>
 
 <h4>The dynamic array queue employs a resizable array for queue operations. It dynamically adjusts its size to handle varying numbers of elements efficiently.</h4>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
-<h2>Dynamic Stack Queue</h2>
+<h2>Queue Based on Dynamic Stack</h2>
 <h4>The dynamic stack queue utilizes a dynamic stack internally to implement the queue. This approach combines the benefits of both stacks and queues for optimized performance.</h4>
 <p align="center"><img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2023/02/implementing-queue-using-two-stack.webp" alt="project-image"></p>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
