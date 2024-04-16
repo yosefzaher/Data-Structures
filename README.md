@@ -28,10 +28,12 @@
 
 <h2>Dynamic Array</h2>
 <h4>The dynamic array implementation provides a resizable array that automatically adjusts its size as elements are added or removed. It supports dynamic memory allocation and efficient resizing strategies.</h4>
+<p align="center"><img src="https://miro.medium.com/v2/resize:fit:875/1*BHfiZRFdNYg307BJrEhi_A.png" alt="project-image"></p>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
 <h2>Stack</h2>
 <h4>The stack data structure follows the Last-In-First-Out (LIFO) principle. The stack implementations included are based on both static arrays and dynamic arrays, showcasing different approaches to managing stack operations.</h4>
+<p align="center"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png" alt="project-image"></p>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 <h2>Static Array Stack</h2>
 <h4>The static array stack is implemented using a fixed-size array. It is suitable for scenarios where the maximum capacity is known in advance.</h4>
@@ -50,15 +52,18 @@
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
 <h2>Dynamic Array Queue</h2>
+
 <h4>The dynamic array queue employs a resizable array for queue operations. It dynamically adjusts its size to handle varying numbers of elements efficiently.</h4>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
 <h2>Dynamic Stack Queue</h2>
 <h4>The dynamic stack queue utilizes a dynamic stack internally to implement the queue. This approach combines the benefits of both stacks and queues for optimized performance.</h4>
+<p align="center"><img src="https://prepinstadotcom.s3.ap-south-1.amazonaws.com/wp-content/uploads/2023/02/implementing-queue-using-two-stack.webp" alt="project-image"></p>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
 <h2>Linked List</h2>
 <h4>The linked list implementations cover both single linked lists and double linked lists. These structures use pointers to connect elements, allowing for efficient insertion, deletion, and traversal operations.</h4>
+<p align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20220712172013/Singlelinkedlist.png" alt="project-image"></p>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 <h2>Single Linked List</h2>
 <h4>The single linked list consists of nodes connected by pointers, where each node contains data and a pointer to the next node in the sequence.</h4>
@@ -66,9 +71,10 @@
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 <h2>Double Linked List</h2>
 <h4>The double linked list extends the single linked list by including a backward pointer in each node, enabling bidirectional traversal and operations.</h4>
+<p align="center"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/03/DLL1.png" alt="project-image"></p>
 <h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
-<h2>Getting Started</h2>
+<h2>Getting Started :</h2>
 <h3>To use the data structures in your projects:</h3>
 
 <h4>Clone this repository to your local machine.
