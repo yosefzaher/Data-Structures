@@ -1,60 +1,41 @@
-Data Structures in C
-This repository contains implementations of various data structures in the C programming language. The following data structures are included:
+C Data Structures
+This repository contains implementations of various data structures in C. The data structures included are:
 
 Dynamic Array
-Stack (based on static array, based on dynamic array)
-Queue (based on static array, based on dynamic array, based on dynamic stack)
-Linked List (single, double)
-Each data structure has its own directory containing the implementation files and a README file with a detailed explanation and visualization.
+Stack
+Based on Static Array
+Based on Dynamic Array
+Queue
+Based on Static Array
+Based on Dynamic Array
+Based on Dynamic Stack (included in this repository)
+Linked List
+Single Linked List
+Double Linked List
+Each data structure is implemented as a separate module to demonstrate different concepts and techniques in data structure design and implementation.
 
+Data Structures Overview
 Dynamic Array
-A dynamic array is an array with a variable size. It allows elements to be added or removed as needed, and the array will automatically resize itself to accommodate the new elements.
-
-Dynamic Array Visualization
+The dynamic array implementation provides a resizable array that automatically adjusts its size as elements are added or removed. It supports dynamic memory allocation and efficient resizing strategies.
 
 Stack
-A stack is a Last-In-First-Out (LIFO) data structure. It has two main operations: push (add an element to the top of the stack) and pop (remove the top element from the stack).
-
-Stack (based on static array)
-This implementation uses a fixed-size array to store the elements of the stack.
-
-Static Array Stack Visualization
-
-Stack (based on dynamic array)
-This implementation uses a dynamic array to store the elements of the stack, allowing it to grow and shrink as needed.
-
-Dynamic Array Stack Visualization
+The stack data structure follows the Last-In-First-Out (LIFO) principle. The stack implementations included are based on both static arrays and dynamic arrays, showcasing different approaches to managing stack operations.
 
 Queue
-A queue is a First-In-First-Out (FIFO) data structure. It has two main operations: enqueue (add an element to the end of the queue) and dequeue (remove the front element from the queue).
-
-Queue (based on static array)
-This implementation uses a fixed-size array to store the elements of the queue.
-
-Static Array Queue Visualization
-
-Queue (based on dynamic array)
-This implementation uses a dynamic array to store the elements of the queue, allowing it to grow and shrink as needed.
-
-Dynamic Array Queue Visualization
-
-Queue (based on dynamic stack)
-This implementation uses a stack (based on a dynamic array) to store the elements of the queue.
-
-Dynamic Stack Queue Visualization
+The queue data structure follows the First-In-First-Out (FIFO) principle. Similar to the stack, queue implementations are provided based on static arrays, dynamic arrays, and dynamic stacks, highlighting various methods of implementing queues.
 
 Linked List
-A linked list is a linear data structure where each element is a separate object, containing a data part and a reference to the next element in the list.
+The linked list implementations cover both single linked lists and double linked lists. These structures use pointers to connect elements, allowing for efficient insertion, deletion, and traversal operations.
 
-Single Linked List
-This implementation uses a single linked list, where each element has a reference to the next element in the list.
+Getting Started
+To use the data structures in your projects:
 
-Single Linked List Visualization
-
-Double Linked List
-This implementation uses a double linked list, where each element has a reference to both the next and previous elements in the list.
-
-Double Linked List Visualization
+Clone this repository to your local machine.
+Navigate to the desired data structure directory (e.g., Stack/StaticArray).
+Include the necessary header files and source files in your C project.
+Use the provided API functions to interact with the data structures.
+Contributing
+Contributions to this repository are welcome! If you have suggestions, bug fixes, or new implementations of data structures, feel free to open a pull request.
 
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
