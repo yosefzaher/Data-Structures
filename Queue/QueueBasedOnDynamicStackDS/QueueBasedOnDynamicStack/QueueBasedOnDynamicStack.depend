@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1712759966 source:d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicstackds\queuebasedondynamicstack\dynamicstack.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"DynamicStack.h"
+
+1712759737 d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicstackds\queuebasedondynamicstack\dynamicstack.h
+	"DataType.h"
+
+1712583540 d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicstackds\queuebasedondynamicstack\datatype.h
+
+1712771712 source:d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicstackds\queuebasedondynamicstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"QueueDS.h"
+
+1712771020 d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicstackds\queuebasedondynamicstack\queueds.h
+	"DataType.h"
+	"DynamicStack.h"
+
+1712771231 source:d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicstackds\queuebasedondynamicstack\queueds.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueDS.h"
+

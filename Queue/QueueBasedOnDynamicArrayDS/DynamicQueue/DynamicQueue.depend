@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1712663267 source:d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicarrayds\dynamicqueue\dynamicqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"DynamicQueue.h"
+
+1712658473 d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicarrayds\dynamicqueue\dynamicqueue.h
+	"DataType.h"
+
+1712583540 d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicarrayds\dynamicqueue\datatype.h
+
+1712663267 source:d:\full embedded systems dibloma\data structures\queue\queuebasedondynamicarrayds\dynamicqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"DynamicQueue.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712591130 source:d:\full embedded systems dibloma\data structures\queue\queuebasedonstaticarrayds\queuestaticarrayds\main.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueDS.h"
+
+1712586705 d:\full embedded systems dibloma\data structures\queue\queuebasedonstaticarrayds\queuestaticarrayds\queueds.h
+	"DataType.h"
+
+1712583540 d:\full embedded systems dibloma\data structures\queue\queuebasedonstaticarrayds\queuestaticarrayds\datatype.h
+
+1712591078 source:d:\full embedded systems dibloma\data structures\queue\queuebasedonstaticarrayds\queuestaticarrayds\queueds.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueDS.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1712576159 source:d:\full embedded systems dibloma\data structures\stack\stackdsdynamicarray\dynamicstack\dynamicstack.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"DynamicStack.h"
+
+1712575592 d:\full embedded systems dibloma\data structures\stack\stackdsdynamicarray\dynamicstack\dynamicstack.h
+	"DataType.h"
+
+1712483447 d:\full embedded systems dibloma\data structures\stack\stackdsdynamicarray\dynamicstack\datatype.h
+
+1712576225 source:d:\full embedded systems dibloma\data structures\stack\stackdsdynamicarray\dynamicstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"DynamicStack.h"
+

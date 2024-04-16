@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1713124335 source:d:\full embedded systems dibloma\data structures\linked list\singlelinkedlist\singlelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SingleLinkedList.h"
+
+1713134299 d:\full embedded systems dibloma\data structures\linked list\singlelinkedlist\singlelinkedlist\singlelinkedlist.h
+	"DataType.h"
+
+1712583540 d:\full embedded systems dibloma\data structures\linked list\singlelinkedlist\singlelinkedlist\datatype.h
+
+1713124357 source:d:\full embedded systems dibloma\data structures\linked list\singlelinkedlist\singlelinkedlist\singlelinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"SingleLinkedList.h"
+

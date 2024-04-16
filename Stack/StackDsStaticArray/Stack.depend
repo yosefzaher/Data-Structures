@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712416784 source:d:\full embedded systems dibloma\data structures\stack\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1712417908 source:d:\full embedded systems dibloma\data structures\stack\stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1712416088 d:\full embedded systems dibloma\data structures\stack\stack\stack.h
+	"DataType.h"
+
+1712398592 d:\full embedded systems dibloma\data structures\stack\stack\datatype.h
+

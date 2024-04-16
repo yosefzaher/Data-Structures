@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1713224637 source:d:\full embedded systems dibloma\data structures\linked list\doublelinkedlist\doublelinkedlist\doublelinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"DoubleLinkedList.h"
+
+1713223195 d:\full embedded systems dibloma\data structures\linked list\doublelinkedlist\doublelinkedlist\doublelinkedlist.h
+	"DataType.h"
+
+1712583540 d:\full embedded systems dibloma\data structures\linked list\doublelinkedlist\doublelinkedlist\datatype.h
+
+1713224933 source:d:\full embedded systems dibloma\data structures\linked list\doublelinkedlist\doublelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DoubleLinkedList.h"
+
