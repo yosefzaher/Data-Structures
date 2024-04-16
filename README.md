@@ -1,22 +1,25 @@
-C Data Structures
-Welcome to the C Data Structures repository! This project provides implementations of various data structures in C. Each data structure is accompanied by detailed explanations, illustrations, and usage examples.
+<h1 align="center" id="title">C Data Structures</h1>
 
-Table of Contents
-Introduction
-Dynamic Array
-Stack
-Static Array Stack
-Dynamic Array Stack
-Queue
-Static Array Queue
-Dynamic Array Queue
-Dynamic Stack Queue
-Linked List
-Single Linked List
-Double Linked List
-Getting Started
-Contributing
-License
+<h4>Welcome to the C Data Structures repository! This project provides implementations of various data structures in C. Each data structure is accompanied by detailed explanations, illustrations, and usage examples.</h4>
+
+<h2> Table of Contents </h2>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-Introduction
+-Dynamic Array
+-Stack
+-Static Array Stack
+-Dynamic Array Stack
+-Queue
+-Static Array Queue
+-Dynamic Array Queue
+-Dynamic Stack Queue
+-Linked List
+-Single Linked List
+-Double Linked List
+-Getting Started
+-Contributing
+-License
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Introduction
 This repository aims to provide comprehensive implementations of essential data structures in C. Understanding and implementing these data structures are fundamental to writing efficient and organized code.
 
