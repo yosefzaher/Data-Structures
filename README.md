@@ -1,32 +1,34 @@
 <h1 align="center" id="title">C Data Structures</h1>
 
+<p align="center"><img src="https://www.learntek.org/wp-content/uploads/2019/08/Data-Structures-with-C-Programming.png" alt="project-image"></p>
+
 <h4>Welcome to the C Data Structures repository! This project provides implementations of various data structures in C. Each data structure is accompanied by detailed explanations, illustrations, and usage examples.</h4>
 
-<h2> Table of Contents </h2>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Introduction
--Dynamic Array
--Stack
--Static Array Stack
--Dynamic Array Stack
--Queue
--Static Array Queue
--Dynamic Array Queue
--Dynamic Stack Queue
--Linked List
--Single Linked List
--Double Linked List
--Getting Started
--Contributing
--License
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Introduction
-This repository aims to provide comprehensive implementations of essential data structures in C. Understanding and implementing these data structures are fundamental to writing efficient and organized code.
+<h3> Table of Contents </h3>
+<h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
+<h5>-Introduction</h5>
+<h5>-Dynamic Array</h5>
+<h5>-Stack</h5>
+<h5>-Static Array Stack</h5>
+<h5>-Dynamic Array Stack</h5>
+<h5>-Queue</h5>
+<h5>-Static Array Queue</h5>
+<h5>-Dynamic Array Queue</h5>
+<h5>-Dynamic Stack Queue</h5>
+<h5>-Linked List</h5>
+<h5>-Single Linked List</h5>
+<h5>-Double Linked List</h5>
+<h5>-Getting Started</h5>
+<h5>-Contributing</h5>
+<h5>-License</h5>
+<h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
+<h2>Introduction</h2>
+<h4>This repository aims to provide comprehensive implementations of essential data structures in C. Understanding and implementing these data structures are fundamental to writing efficient and organized code.</h4>
+<h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
-
-Dynamic Array
-The dynamic array implementation provides a resizable array that automatically adjusts its size as elements are added or removed. It supports dynamic memory allocation and efficient resizing strategies.
-
+<h2>Dynamic Array</h2>
+<h4>The dynamic array implementation provides a resizable array that automatically adjusts its size as elements are added or removed. It supports dynamic memory allocation and efficient resizing strategies.</h4>
+<h6>---------------------------------------------------------------------------------------------------------------------------------------------------------------------</h6>
 
 Stack
 The stack data structure follows the Last-In-First-Out (LIFO) principle. The stack implementations included are based on both static arrays and dynamic arrays, showcasing different approaches to managing stack operations.
